@@ -75,7 +75,7 @@ We welcome contributions from the open-source community! If you have any suggest
 ---
 
 ## 📜 License
-This project is licensed under the **MIT LICENSE** License. See the `LICENSE` file for more details.
+This project is licensed under the **MIT LICENSE** License. See the [LICENSE](./LICENSE) file for more details.
 
 <p align="center">
   Made with ❤️ by Akhil

@@ -21,7 +21,7 @@ My solution is a **mobile app** that combines **Optical Character Recognition (O
 2. **🤖 Large Language Model (LLM)**: The extracted text is processed by an LLM to generate relevant and meaningful question papers based on the content.
 3. **📚 Comprehensive Exam Preparation**: Automatically generated question papers allow students to practice based on actual study materials, ensuring a more thorough and focused review.
 4. **⚡ Saves Time for Teachers**: Teachers can save time by automating question paper generation, enabling them to quickly prepare tests, quizzes, or practice papers.
-5. **💡 Customization**: Teachers can adjust settings to specify the number of questions, difficulty level, and types of questions (multiple choice, short answer, etc.).
+
 
 ---
 

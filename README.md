@@ -1,5 +1,4 @@
-# 📱 Automatic Question Paper Generator App 
-
+# 📱 
 ## 📋 Problem Statement
 Teachers and students often face significant challenges with preparing for exams:
 
